@@ -1,0 +1,26 @@
+server
+	/action
+		/convertion
+		/socket
+		
+	/component
+		/asymetricEncription
+		/db
+			index.js - подключение БД
+		/middlewares
+		/hatsHelpers
+	/config
+	/db
+		/read
+		/write
+	/event
+	/helpers
+	/legacy
+	/model
+		/read
+		/write
+	/route
+	/task
+	/test
+	/validator
+	
